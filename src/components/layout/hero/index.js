@@ -20,7 +20,7 @@ const Hero = () => {
             className="primaryText"
           >
             Hey There, <br />
-            I'am Aakash.
+            I'am Jay.
           </motion.span>
           <motion.span
             variants={fadeIn("left", "tween", 0.2, 1)}
